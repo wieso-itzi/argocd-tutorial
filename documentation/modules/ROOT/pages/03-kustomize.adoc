@@ -172,7 +172,7 @@ You should see not only the new label but also the new `ffcd15` image tag.
 You can see how you can take already existing YAML and modify it for
 your specific environment without the need to copy or edit the original.
 
-Kustomize can be used to write a new YAML file or be pipped into
+Kustomize can be used to write a new YAML file or be piped into
 the `kubectl` (or `oc`) command. Example:
 
 [source,bash,subs="attributes+,+macros"]
